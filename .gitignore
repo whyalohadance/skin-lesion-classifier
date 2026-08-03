@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.convert-env/
+*.pth
+data/images.npy
